@@ -14,7 +14,7 @@ function mincost(arr) {
 
 }
 
-console.log(mincost([4, 3, 2, 6]));
+
 		
 	
 	
