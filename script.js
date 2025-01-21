@@ -19,7 +19,7 @@ function mincost(arr) {
         let first = heap.pop();
         let second = heap.pop();
 
-        /
+        
         let cost = first + second;
 
         
